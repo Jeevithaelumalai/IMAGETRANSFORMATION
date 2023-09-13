@@ -167,36 +167,48 @@ plt.show()
 ## Output:
 ### i)Image Translation
 
-![WhatsApp Image 2023-09-13 at 15 49 29](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/7a520242-95e3-4dbf-bbf7-9702533ccd00)
+![WhatsApp Image 2023-09-13 at 15 49 29](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/27601201-ae97-42c7-a29a-80079e0e82f2)
+
+
 
 ### ii) Image Scaling
 
-![WhatsApp Image 2023-09-13 at 15 49 45](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/e19e2bb6-c894-4e9b-974b-0c79c8f1882c)
+![WhatsApp Image 2023-09-13 at 15 49 45](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/e49054ee-ca1f-48f8-b825-7060787ea95a)
+
 
 
 ### iii)Image shearing
-![WhatsApp Image 2023-09-13 at 15 50 05](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/b6ca83b5-62b9-4fba-bbfd-3c0e5541b944)
+![WhatsApp Image 2023-09-13 at 15 50 05](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/5e52a19b-8046-4cf9-9555-75b338e79581)
 
-![WhatsApp Image 2023-09-13 at 15 50 30](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/08c759f6-68dc-429e-b8fe-fafa0925c102)
 
-![WhatsApp Image 2023-09-13 at 15 51 26](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/47c98d30-3321-4e79-891e-848e863c5d06)
+![WhatsApp Image 2023-09-13 at 15 50 30](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/90c3a8d0-83a0-4277-9ad5-c34541a7c72f)
+
+
+![WhatsApp Image 2023-09-13 at 15 51 26](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/caf37340-07a7-44e1-a9c0-aeebfb49c12d)
+
+
 
 ### iv)Image Reflection
 
-![WhatsApp Image 2023-09-13 at 15 51 41](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/28c36d82-5915-4918-b9a7-f03d6349ea7a)
 
-![WhatsApp Image 2023-09-13 at 15 51 57](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/d742c529-ac23-41fa-8baa-58ad9aea2d9b)
+![WhatsApp Image 2023-09-13 at 15 51 41](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/8c74187f-e740-4ffd-9823-9f689abb52b5)
 
-![WhatsApp Image 2023-09-13 at 15 52 12](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/f1ae4765-56f0-4d83-948c-89c1eba4a7e8)
+
+![WhatsApp Image 2023-09-13 at 15 51 57](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/88fb9fc5-67ad-4795-8009-3c2d4cf6a0a1)
+
+![WhatsApp Image 2023-09-13 at 15 52 12](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/6497e1cd-598d-4182-9e2e-eb6186f036f2)
 
 
 ### v)Image Rotation
-![WhatsApp Image 2023-09-13 at 15 52 28](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/b0cddfe0-a17a-4b86-9d40-97e856548169)
+
+![WhatsApp Image 2023-09-13 at 15 52 48](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/4507348a-2aec-47a7-831f-f777f4eae2f0)
+
 
 
 ### vi)Image Cropping
 
-![WhatsApp Image 2023-09-13 at 15 52 48](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/51e1116a-38c7-46cf-96ac-b9dd8583df3c)
+
+![WhatsApp Image 2023-09-13 at 15 52 28](https://github.com/Jeevithaelumalai/IMAGETRANSFORMATION/assets/118708245/970c4132-3623-4be9-96c1-b281782bd375)
 
 
 

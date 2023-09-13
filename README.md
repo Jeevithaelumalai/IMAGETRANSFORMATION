@@ -145,7 +145,7 @@ plt.show()
 
 
 vi)Image Cropping
-````
+
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -159,11 +159,7 @@ cropped_img=lion_image[11:500,27:630]
 plt.axis('off')
 plt.imshow(cropped_img)
 plt.show()
-```
 
-
-
-```
 ## Output:
 ### i)Image Translation
 
